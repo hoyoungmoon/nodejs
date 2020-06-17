@@ -2,7 +2,7 @@
 *.pptx
 *.xlsx
 
-/config
-/component
+server/components
+server/config
 node_modules/
 
