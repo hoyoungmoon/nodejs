@@ -1,0 +1,8 @@
+*.pem
+*.pptx
+*.xlsx
+
+/config
+/component
+node_modules/
+
